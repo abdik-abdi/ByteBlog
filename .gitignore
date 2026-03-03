@@ -1,0 +1,13 @@
+# Database configuration (protects your passwords)
+config/db_creds.php
+.env
+
+# OS generated files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+desktop.ini
+
+# Temporary files
+*.log
+*.tmp
